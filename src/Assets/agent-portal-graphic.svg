@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="50px" viewBox="0 0 33 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>agent-portal-graphic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="agent-portal-graphic" fill="#FFFFFF">
+            <g id="sagesure-glyph" transform="translate(0.000000, 13.000000)">
+                <path d="M11.6112452,16.6352452 L11.6112452,6.36475481 L22,6.36475481 C20.0950395,2.59213308 16.1599722,0 11.6112452,0 C5.19860258,0 0,5.1487957 0,11.5 C0,17.8508058 5.19860258,23 11.6112452,23 C16.1599722,23 20.0950395,20.4078669 22,16.6352452 L11.6112452,16.6352452" id="Fill-1"></path>
+                <polygon id="Fill-2" points="22 17 33 17 33 6 22 6"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

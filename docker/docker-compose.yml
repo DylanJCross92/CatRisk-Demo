@@ -1,0 +1,14 @@
+catrisk-score:
+  image: registry.icg360.net/catrisk-score:${VERSION}
+  container_name: catrisk-score
+  expose:
+    - 8911
+  ports:
+    - 8911:8911
+  environment:
+    - SECRET
+    - ENVIRONMENT
+  labels:
+    io.rancher.container.pull_image: always
+    io.rancher.scheduler.affinity:host_label: role=docker
+    io.rancher.scheduler.affinity:container_ne: catrisk-score

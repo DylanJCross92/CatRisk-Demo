@@ -1,0 +1,143 @@
+.block {
+    display: block;
+}
+.flex {
+    display: flex;
+}
+
+.fColumn {
+    flex-direction: column;
+}
+
+.fRow {
+    flex-direction: row;
+}
+
+.fGrow {
+    flex-grow: 1;
+}
+
+.fNoGrow {
+    flex-grow: 0;
+}
+
+.fShrink {
+    flex-shrink: 1;
+}
+
+.fSpaceBetween {
+    justify-content: space-between;
+}
+
+.fNoShrink {
+    flex-shrink: 0;
+}
+
+.flexRightAlign {
+    justify-content: flex-end;
+}
+
+.flexLeftAlign {
+    justify-content: flex-start;
+}
+
+.flexVerticalTop {
+    align-items: flex-start;
+}
+
+.flexVerticalMiddle {
+    align-items: center;
+}
+
+.flexVerticalBottom {
+    align-items: flex-end;
+}
+
+.flexCenterAlign {
+    justify-content: center;
+}
+
+.loginBackground {
+    background-image: url('Assets/login-background.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
+
+.loginLogoDivider {
+    width: 15px;
+}
+
+.loginLogoWrapper {
+    margin-bottom: 25px;
+}
+
+.textInputStyles {
+    margin-top: 2px;
+    margin-right: 20px;
+    border-radius: 3px;
+    border: solid 1px #ccc;
+    height: 46px;
+    font-size: 16px;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.1);
+    color: #222;
+    padding: 0 10px;
+    width: 100%;
+}
+
+.accountCreatedText {
+    color: #FFF;
+    margin-bottom: 15px;
+}
+
+.loaderOverlayWrapper {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0,128,178, 0.75);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.CxClient {
+    height: calc(100vh - 52px);
+    width: 100%;
+}
+
+main {
+    min-height: calc(100vh - 130px);
+}
+
+.footer {
+    background: #f0f0f0;
+    padding: 10px;
+}
+.footer .insight-logo-wrapper {
+    width: 200px;
+    flex: 1;
+    align-items: center;
+}
+.footer .navigation {
+    width: 100%;
+    box-sizing: border-box;
+    align-items: center;
+    flex-grow: 1;
+    margin: 0px;
+}
+.footer .navigation li {
+    list-style: none;
+    margin: 0px 5px;
+    display: inline-block;
+}
+
+.footer .insight-analytics-logo-wrapper {
+    width: 200px;
+    flex: 1;
+    align-items: center;
+}

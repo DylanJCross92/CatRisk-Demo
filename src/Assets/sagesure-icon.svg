@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>sagesure-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logins" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.600000024">
+        <g id="sagesure-icon" fill="#FFFFFF">
+            <g id="Group-2" transform="translate(0.000000, 4.000000)">
+                <path d="M11.7819989,16.8479721 L11.7819989,6.44614553 L22.3235294,6.44614553 C20.3905548,2.62528056 16.3976188,0 11.7819989,0 C5.27505261,0 0,5.21463708 0,11.6470588 C0,18.0790769 5.27505261,23.2941176 11.7819989,23.2941176 C16.3976188,23.2941176 20.3905548,20.6688371 22.3235294,16.8479721 L11.7819989,16.8479721" id="Fill-1"></path>
+                <polygon id="Fill-2" points="22.3235294 17.4705882 33 17.4705882 33 6.79411765 22.3235294 6.79411765"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

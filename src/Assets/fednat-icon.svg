@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>fednat-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logins" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.6">
+        <g id="fednat-icon" fill="#FFFFFF">
+            <polyline id="fednat-glyph" points="16.0007216 7.70239253 18.2397402 14.5378086 25.5326058 14.5378086 19.6215387 18.7461883 22.1268152 26.3320845 16.9748354 24.6177175 25.8897808 31 22.0784703 19.5322363 32 12.4727432 19.7571931 12.4727432 16.0007216 1 12.2420853 12.4727432 0 12.4727432 9.92225129 19.5322363 6.11021918 31 15.024443 24.6177175 9.87318481 26.3320845 12.3777397 18.7461883 6.46667268 14.5378086 13.7595382 14.5378086 16.0007216 7.70239253"></polyline>
+        </g>
+    </g>
+</svg>

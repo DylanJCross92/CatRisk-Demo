@@ -1,0 +1,15 @@
+import React, { Component, PropTypes } from 'react';
+import mixpanel from 'mixpanel-browser';
+import MixpanelProvider from 'react-mixpanel';
+
+mixpanel.init("${mixpanelinit}");
+
+export default class MixpanelWrapper extends Component {
+  render() {
+    return (
+        <MixpanelProvider mixpanel={mixpanel}>
+            {this.props.children}
+        </MixpanelProvider>
+    );
+  }
+}

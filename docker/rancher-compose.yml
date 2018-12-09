@@ -1,0 +1,11 @@
+catrisk-score:
+  scale: 1
+  upgrade_strategy:
+    start_first: false
+  health_check:
+    port: 8911
+    interval: 2000
+    unhealthy_threshold: 3
+    strategy: recreate
+    healthy_threshold: 2
+    response_timeout: 2000
